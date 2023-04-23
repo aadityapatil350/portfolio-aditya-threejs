@@ -1,0 +1,13 @@
+> npm create vite@latest ./ -- --template react //create reacte app 
+ npm install -D tailwindcss to install 
+
+  npx tailwindcss init to initialize
+   --legacy-peer-deps flag - to use older packages like react-tilt we should add flag or to use any older package we mush use this flag
+   
+ npm install --legacy-peer-deps @react-three/fiber
+  @react-three/drei
+   maath react-tilt
+    react-vertical-timeline-component
+     @emailjs/browser
+      framer-motion
+       react-router-dom
